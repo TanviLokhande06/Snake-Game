@@ -79,11 +79,7 @@ snake-game/
 
 ## 📸 Game Preview
 
-Add a screenshot here:
-
-```md
 ![Snake Game Screenshot](screenshot.png)
-```
 
 ---
 
