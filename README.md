@@ -79,7 +79,7 @@ snake-game/
 
 ## 📸 Game Preview
 
-![Snake Game Screenshot](Snake Game/screenshot.png)
+![Snake Game Screenshot](Snake%20Game/screenshot.png)
 
 ---
 
