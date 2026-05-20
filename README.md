@@ -31,13 +31,13 @@ Control the snake, eat food, grow longer, and try to beat your high score!
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/tanvilokhande06/snake-game.git
+git clone https://github.com/TanviLokhande06/Snake-Game.git
 ```
 
 ### 2. Navigate to the Project Folder
 
 ```bash
-cd Snake Game
+cd Snake-Game
 ```
 
 ### 3. Open the Game
